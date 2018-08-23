@@ -5,10 +5,10 @@ The purpose of the club is make a better environment for internal UCSC students 
 
 **You are warmly welcome to join with us.**
 
-Make repositories for your own project ideas...
-Contributes to the others' projects...
-Compete on online projects competiitions...
-Show us that you are capable to do things as a UCSC student...
+Make repositories for your own project ideas...<br>
+Contributes to the others' projects...<br>
+Compete on online projects competiitions...<br>
+Show us that you are capable to do things as a UCSC student...<br>
 
 # For Contributors
 ----------------
