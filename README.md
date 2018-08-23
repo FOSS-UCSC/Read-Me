@@ -1,1 +1,4 @@
-# Read-Me
+# About FOSS-UCSC
+-----------------
+# For Contributors
+----------------
